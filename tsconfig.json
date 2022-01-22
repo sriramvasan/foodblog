@@ -14,7 +14,9 @@
     "module": "es2020",
     "lib": [
       "es2020",
-      "dom"
+      "ES6",
+      "dom",
+      "DOM.Iterable"
     ]
   },
   "angularCompilerOptions": {
